@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 226b40b677054402ab95c1a1c2b18705
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - LiefStory (4)-WorstNightmare-0
+  - LiefStory (4)-WorstNightmare-1
+  - LiefStory (4)-Start-2
+  - LiefStory (4)-Start-3
+  - LiefStory (4)-Start-4
+  - LiefStory (4)-Start-5
+  - LiefStory (4)-Start-6
+  - LiefStory (4)-Start-7
+  - LiefStory (4)-ForestSpirit-8
+  - LiefStory (4)-ForestSpirit-9
+  - LiefStory (4)-ForestSpirit-10
+  - LiefStory (4)-ForestSpirit-11
+  - LiefStory (4)-ForestSpirit-12
+  - LiefStory (4)-Help-13
+  - LiefStory (4)-Help-14
+  - LiefStory (4)-Help-15
+  - LiefStory (4)-Help-16
+  - LiefStory (4)-Help-17
+  - LiefStory (4)-Help-18
+  - LiefStory (4)-LeifKillsTrespassers-19
+  - LiefStory (4)-LeifKillsTrespassers-20
+  - LiefStory (4)-LeifKillsTrespassers-21
+  - LiefStory (4)-LeifKillsTrespassers-22
+  - LiefStory (4)-LeifKillsTrespassers-23
+  - LiefStory (4)-LeifKillsTrespassers-24
+  - LiefStory (4)-LiefKillsAnyone-25
+  - LiefStory (4)-LiefKillsAnyone-26
+  - LiefStory (4)-LiefKillsAnyone-27
+  - LiefStory (4)-LiefKillsAnyone-28
+  - LiefStory (4)-DefendSpirit-29
+  - LiefStory (4)-DefendSpirit-30
+  - LiefStory (4)-DefendSpirit-31
+  - LiefStory (4)-DefendSpirit-32
+  - LiefStory (4)-AngryLief-33
+  - LiefStory (4)-AngryLief-34
+  - LiefStory (4)-AngryLief-35
+  - LiefStory (4)-AngryLief-36
+  - LiefStory (4)-God-37
+  - LiefStory (4)-God-38
+  - LiefStory (4)-God-39
+  - LiefStory (4)-God-40
+  - LiefStory (4)-God-41
+  - LiefStory (4)-God-42
+  - LiefStory (4)-God-43
+  - LiefStory (4)-Help2-44
+  - LiefStory (4)-Help2-45
+  - LiefStory (4)-Help2-46
+  - LiefStory (4)-Help2-47
+  - LiefStory (4)-HugsSprinkles-48
+  - LiefStory (4)-HugsSprinkles-49
+  - LiefStory (4)-HugsSprinkles-50
+  - LiefStory (4)-HugsSprinkles-51
+  - LiefStory (4)-HugsSprinkles-52
+  - LiefStory (4)-PlantsLeaves-53
+  - LiefStory (4)-PlantsLeaves-54
+  - LiefStory (4)-PlantsLeaves-55
+  - LiefStory (4)-PlantsLeaves-56
+  - LiefStory (4)-PlantsLeaves-57
+  - LiefStory (4)-PlantsLeaves-58
+  - LiefStory (4)-PlantsLeaves-59
+  - LiefStory (4)-PlantsLeaves-60
+  - LiefStory (4)-BettyShock-61
+  - LiefStory (4)-BettyShock-62
+  - LiefStory (4)-BettyShock-63
+  - LiefStory (4)-BettyShock-64
+  - LiefStory (4)-BettyShock-65
+  - LiefStory (4)-LiefAcceptance-66
+  - LiefStory (4)-LiefAcceptance-67
+  - LiefStory (4)-LiefAcceptance-68
+  - LiefStory (4)-LiefAcceptance-69
+  - LiefStory (4)-deny-70
+  - LiefStory (4)-deny-71
+  - LiefStory (4)-deny-72
+  - LiefStory (4)-deny-73
+  - LiefStory (4)-GodLeaves2-74
+  - LiefStory (4)-GodLeaves2-75
+  - LiefStory (4)-GodLeaves2-76
+  - LiefStory (4)-GodLeaves2-77
+  - LiefStory (4)-OfCourse-78
+  - LiefStory (4)-OfCourse-79
+  - LiefStory (4)-OfCourse-80
+  - LiefStory (4)-JokeConfirm-81
+  - LiefStory (4)-JokeConfirm-82
+  - LiefStory (4)-JokeConfirm-83
+  - LiefStory (4)-JokeConfirm-84
+  - LiefStory (4)-JokeConfirm-85
+  - LiefStory (4)-JokeDeny-86
+  - LiefStory (4)-JokeDeny-87
+  - LiefStory (4)-JokeDeny-88
+  - LiefStory (4)-JokeDeny-89
+  - LiefStory (4)-YesConfirm-90
+  - LiefStory (4)-YesConfirm-91
+  - LiefStory (4)-YesConfirm-92
+  - LiefStory (4)-PeopleProblem-93
+  - LiefStory (4)-PeopleProblem-94
+  - LiefStory (4)-PeopleProblem-95
+  - LiefStory (4)-PeopleProblem-96
+  - LiefStory (4)-PeopleProblem-97
+  - LiefStory (4)-PeopleProblem-98
+  - LiefStory (4)-LaughJoke-99
+  - LiefStory (4)-LaughJoke-100
+  - LiefStory (4)-LaughJoke-101
+  - LiefStory (4)-LaughJoke-102
+  - LiefStory (4)-dontlaugh-103
+  - LiefStory (4)-dontlaugh-104
+  - LiefStory (4)-BettyAwkward-105
+  - LiefStory (4)-BettyAwkward-106
+  - LiefStory (4)-BettyAwkward-107
+  - LiefStory (4)-BettyAwkward-108
+  - LiefStory (4)-naturegood-109
+  - LiefStory (4)-naturegood-110
+  - LiefStory (4)-naturegood-111
+  - LiefStory (4)-naturebad-112
+  - LiefStory (4)-naturebad-113
+  - LiefStory (4)-naturebad-114
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 226b40b677054402ab95c1a1c2b18705,
+    type: 3}
+  localizations: []

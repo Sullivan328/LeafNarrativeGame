@@ -1,0 +1,555 @@
+title: WorstNightmare
+tags: 
+colorID: 8
+position: 551,40
+---
+Leif: Your Worst Nightmare
+
+[[Continue|Lose]]
+===
+title: Start
+tags: 
+colorID: 0
+position: 110,-6
+---
+Betty: AAAHHH!
+    Lief: AAAHH!
+    Betty: Who are you?
+[[Your worst nightmare|WorstNightmare]]
+[[A mere forest spirit|ForestSpirit]]
+[[A god|God]]
+===
+title: ForestSpirit
+tags: 
+colorID: 0
+position: 388,-171
+---
+Leif: Oh just a simple Forest spirit. Plain as that
+
+[[continue|Whyknow]]
+===
+title: Whyknow
+tags: 
+colorID: 0
+position: 726,-194
+---
+Leif: Why do you want to know?
+
+[[continue|Radio]]
+===
+title: Radio
+tags: 
+colorID: 0
+position: 960,-198
+---
+Betty: "Well I really shouldn't tell you this. But I have a radio connects me to the outside world. I can tell people about your existence and get you out of this maze
+
+[[GIVE ME THAT|Lose]]
+[[You can help me get out|Help]]
+===
+title: Lose
+tags: 
+colorID: 0
+position: 374,-893
+---
+<<end if>>
+===
+title: Help
+tags: 
+colorID: 0
+position: 1206,-196
+---
+Leif: You can get me out?
+
+[[Continue|PromiseSpirit]]
+===
+title: PromiseSpirit
+tags: 
+colorID: 0
+position: 1460,-196
+---
+Betty: Okay, but can you promise that you're a good forest spirit?
+
+[[Of course!|AffirmationSpirit]]
+===
+title: AffirmationSpirit
+tags: 
+colorID: 0
+position: 1691,-199
+---
+Leif: Of course I'm a spirit! I love inhabiting forests and  destroying trespassers
+
+[[continue|BettyAfraid]]
+===
+title: BettyAfraid
+tags: 
+colorID: 0
+position: 1909,-202
+---
+Betty: Y-yeah like people who deforest, litter, hunt. Those kind of trespassers right?
+
+[[Yes yes, I kill people like that|LeifKillsTrespassers]]
+[[Oh nah I'll kill anyone|LiefKillsAnyone]]
+===
+title: LeifKillsTrespassers
+tags: 
+colorID: 0
+position: 2125,-420
+---
+Leif: Oh yeah those guys. Yeah I kill people who threaten my home
+
+[[continue|BettyDoubtKill]]
+===
+title: LiefKillsAnyone
+tags: 
+colorID: 8
+position: 2129,-199
+---
+Lief: I don't discriminate. Anybody who steps foot among my trees should expect to die. 
+
+[[Continue|BettyFreaks]]
+===
+title: BettyDoubtKill
+tags: 
+colorID: 0
+position: 2129,-634
+---
+Betty: I'm not sure if I should allow a forest spirit that kills out to the world to begin with. 
+Betty: What would be so important about a forest spirit anyway?
+
+[[Im supposed to protect nature|DefendSpirit]]
+[[HOW DARE YOU|AngryLief]]
+===
+title: DefendSpirit
+tags: 
+colorID: 0
+position: 2120,-867
+---
+Lief: Its my job to protect the forest
+Lief: You wouldn't know the hardships to maintain it.
+
+[[continue|BettyApproval]]
+===
+title: AngryLief
+tags: 
+colorID: 0
+position: 1895,-866
+---
+Lief: HOW DARE YOU!
+Lief: I've spent millienia turned peasants like you as compost
+Lief: You're going to regret--
+
+[[continue|Lose]]
+===
+title: BettyApproval
+tags: 
+colorID: 0
+position: 2333,-856
+---
+Betty: You're right, I think you would be a responsible change for the world.
+
+[[continue|win]]
+===
+title: win
+tags: 
+colorID: 0
+position: 4154,-830
+---
+<<end if>>
+===
+title: BettyFreaks
+tags: 
+colorID: 0
+position: 2346,-205
+---
+Betty: Oh my no
+Betty: BELLMAN HELP!
+
+[[continue|Lose]]
+===
+title: God
+tags: 
+colorID: 0
+position: 316,294
+---
+Leif: A God!
+
+[[continue|GodWhat]]
+===
+title: GodWhat
+tags: 
+colorID: 0
+position: 567,300
+---
+Betty: God of what?
+
+[[continue|Whyknow2]]
+===
+title: Whyknow2
+tags: 
+colorID: 0
+position: 792,295
+---
+Leif: Why do you want to know?
+
+[[continue|Radio2]]
+===
+title: Radio2
+tags: 
+colorID: 0
+position: 1015,295
+---
+Betty: "Well I really shouldn't tell you this. But I have a radio connects me to the outside world. I can tell people about your existence and get you out of this maze
+
+[[GIVE ME THAT|Lose]]
+
+[[You can help me get out|Help2]]
+===
+title: Help2
+tags: 
+colorID: 0
+position: 1240,295
+---
+Leif: You can get me out?
+
+[[Continue|PromiseGoodGod]]
+===
+title: PromiseGoodGod
+tags: 
+colorID: 0
+position: 1458,291
+---
+Betty: But what are you a god of anyway?
+
+[[God of charity |HugsSprinkles]]
+
+[[God of leaves |PlantsLeaves]]
+===
+title: HugsSprinkles
+tags: 
+colorID: 0
+position: 1689,818
+---
+Leif: God of charity, hugs, and sprinkles
+
+[[continue|CharityQuestion]]
+===
+title: PlantsLeaves
+tags: 
+colorID: 0
+position: 1713,124
+---
+Leif: Im the god of leaves. Plants, leaves, nature all happy and serene and all that.
+
+[[continue|Bettycool]]
+===
+title: Bettycool
+tags: 
+colorID: 0
+position: 1928,118
+---
+Betty: Oh cool! So is this whole forest yours?
+
+[[continue|YesForest]]
+===
+title: YesForest
+tags: 
+colorID: 0
+position: 2142,114
+---
+Lief: Yeah this whole forest is mine. 
+Lief: Just something I've worked on the last couple years
+
+[[continue|BettyWow]]
+===
+title: BettyWow
+tags: 
+colorID: 0
+position: 2369,101
+---
+Betty: Wow thats impressive! It looks like it goes out forever. 
+Betty: Can you promise that you wouldn't go full ham on Earth like this
+
+[[I wouldn't settle for less than the globe|BettyShock]]
+[[I'm good with that|LiefAcceptance]]
+===
+title: BettyShock
+tags: 
+colorID: 0
+position: 2619,4
+---
+Betty: I'm sorry but I don't think that'd be good for people.
+
+[[continu|LiefPanic]]
+===
+title: LiefAcceptance
+tags: 
+colorID: 0
+position: 2604,227
+---
+Lief: Well...
+Lief: Im. Okay with that sentiment.
+
+[[continue|BettyAcceptance]]
+===
+title: BettyAcceptance
+tags: 
+colorID: 0
+position: 2830,228
+---
+Betty: Thats great! Then let me help you get out of this place so that you can start doing good!
+
+[[continue|win]]
+===
+title: LiefPanic
+tags: 
+colorID: 0
+position: 2622,-210
+---
+Lief: What? People litter the world with their towers of basterdized material.
+Lief: I'm sick of your kind and they need to learn who's on top.
+
+[[continue|BellmanHelp]]
+===
+title: BellmanHelp
+tags: 
+colorID: 0
+position: 2613,-430
+---
+Betty: Bellman!! Help!!
+
+[[continue|Lose]]
+===
+title: CharityQuestion
+tags: 
+colorID: 0
+position: 1921,825
+---
+Betty: Then why do you look like a pile of leaves? What does that have to do with sprinkles or 
+
+[[Hey thats rude|deny]]
+[[oh sorry I meant leaves|GodLeaves2]] 
+[[Of course I am!!|OfCourse]]
+===
+title: deny
+tags: 
+colorID: 0
+position: 1922,1054
+---
+Leif: Thats rude. What about leaves can't be charitable and sprinkle-y huh?
+
+[[continue|BettyApologize]]
+===
+title: GodLeaves2
+tags: 
+colorID: 0
+position: 2168,824
+---
+Leif: Im definitely the god of leaves. I just like to kid around sometimes.
+
+[[continue|BettyDoubt]]
+===
+title: BettyApologize
+tags: 
+colorID: 0
+position: 1921,1260
+---
+Betty: Oh Im sorry! I guess you're such an old god that you're hidden symbols aren't obvious to me. But wait how could you be a god of sprinkles if you're so old
+
+[[You're overthinking it|Overthink]]
+===
+title: Overthink
+tags: 
+colorID: 0
+position: 1675,1253
+---
+Lief: You're overthinking it
+
+[[continue|Lose]]
+===
+title: OfCourse
+tags: 
+colorID: 0
+position: 1918,599
+---
+Lief: Of Course I am
+
+[[continue|BettyFindsLie]]
+===
+title: BettyFindsLie
+tags: 
+colorID: 0
+position: 1906,388
+---
+Betty: I knew it, you're lying! BELLMAN!
+
+[[continue|Lose]]
+===
+title: BettyDoubt
+tags: 
+colorID: 0
+position: 2388,812
+---
+Do you normally make jokes like that?
+
+[[oh yeah all the time|JokeConfirm]]
+[[no no Im quite serious|JokeDeny]]
+===
+title: JokeConfirm
+tags: 
+colorID: 0
+position: 2623,725
+---
+Leif: Yeah yeah I make jokes like that all the time
+
+[[continue|OkayJoke]]
+===
+title: JokeDeny
+tags: 
+colorID: 0
+position: 2618,946
+---
+Leif: No no, I'm just not used to guests. Its been awhile since I've had a good conversation with someone.
+
+[[continue|BettyJoke]]
+===
+title: OkayJoke
+tags: 
+colorID: 0
+position: 2867,535
+---
+Betty: okay um I dont think that was a good joke. 
+Betty: But since you're a nature god, can you help like protect nature from people?
+
+[[Yes!|YesConfirm]]
+[[People wouldn't be a problem|PeopleProblem]]
+===
+title: YesConfirm
+tags: 
+colorID: 0
+position: 3353,534
+---
+Lief: Yes I can tell you that nobody maintains the natural world like I can
+
+[[continue|BettyGreatEscape]]
+===
+title: PeopleProblem
+tags: 
+colorID: 0
+position: 3118,305
+---
+Lief: Oh People wouldn't be a problem with me. I'd get rid of them like that
+
+[[continue|BettyConcern]]
+===
+title: BettyGreatEscape
+tags: 
+colorID: 0
+position: 3593,523
+---
+Betty: Oh thats great! Then maybe I should help you out into the real world.
+
+[[continue|win]]
+===
+title: BettyConcern
+tags: 
+colorID: 0
+position: 3343,299
+---
+Betty: Sorry but uhh I don't like the sound of that.
+
+[[continue|LiefPanic]]
+===
+title: BettyJoke
+tags: 
+colorID: 0
+position: 2841,947
+---
+Betty: Oh yeah I get that. Its been forever since I've talked to a talking pile of leaves.
+
+[[laugh|LaughJoke]]
+[[don't laugh|dontlaugh]]
+===
+title: LaughJoke
+tags: 
+colorID: 0
+position: 3366,758
+---
+Leif: "HAHAHAHA GOOD ONE!!"
+
+[[continue|BettyConfirm]]
+===
+title: dontlaugh
+tags: 
+colorID: 0
+position: 3345,1108
+---
+Leif: ...
+
+[[continue|BettyAwkward]]
+===
+title: BettyConfirm
+tags: 
+colorID: 0
+position: 3609,755
+---
+Betty: I think Earth could use a fun guy like you. The world could use more nature gods and especially one with a sense of humor.
+
+[[continue|ConfidentLeif]]
+===
+title: ConfidentLeif
+tags: 
+colorID: 0
+position: 3840,746
+---
+Leif: Hehe yes, I have quite a sense of humor don't I?
+
+[[continue|win]]
+===
+title: BettyAwkward
+tags: 
+colorID: 0
+position: 3576,1114
+---
+Betty: sorry I guess that joke wasn't so funny huh.
+Betty: So you're a nature god? Does that mean you can make the world better and more habitable, Oxygen and all that good stuff?
+
+[[yes and more!|NatureGood]]
+[[define more 'habitable'|naturebad]]
+===
+title: NatureGood
+tags: 
+colorID: 0
+position: 3804,1128
+---
+Leif: Yes and more! I can bring back rainforests, reclaim land, make nice homes for all my plant pals
+
+[[continue|cute]]
+===
+title: naturebad
+tags: 
+colorID: 0
+position: 3589,1332
+---
+Leif: Define 'habitable'. Do you mean for plants or..."
+
+[[continue|BettyPanic]]
+===
+title: cute
+tags: 
+colorID: 0
+position: 4030,1142
+---
+Betty: That'd be so cute! Okay I'll tell my listeners all about you!
+
+[[continue|win]]
+===
+title: BettyPanic
+tags: 
+colorID: 0
+position: 3591,1579
+---
+Betty: Oh no that is not what a benovolent god would say. BELLMAN HELP!
+
+[[continue|Lose]]
+===
