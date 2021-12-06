@@ -27,28 +27,17 @@ public class LeafMovement : MonoBehaviour
        
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("npc") == true)
-        {
-            if (Input.GetKeyDown(KeyCode.Z))
-            {
-                gameManager.DialogueScreen();
-            }
-        }
-
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
+        
 
-        //if(Input.GetKeyDown(KeyCode.Z))
-        //{
-            //gameManager.DialogueScreen();
+        if(Input.GetKeyDown(KeyCode.Z))
+        {
+            gameManager.DialogueScreen();
          
-       // }
+       }
     }
 
 
@@ -57,7 +46,7 @@ public class LeafMovement : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
         Vector3 movement = new Vector3(moveHorizontal, moveVertical, 0);
-        Debug.Log("Movement: " + movement);
+        //Debug.Log("Movement: " + movement);
         transform.localPosition += movement;
     }
 
